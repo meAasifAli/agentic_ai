@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+duckduckgo-search
+requests
+python-dotenv
+langchain-groq
+langchainhub
+langchain-tavily
